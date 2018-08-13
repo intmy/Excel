@@ -14,4 +14,9 @@
     参考：https://superuser.com/questions/257516/swap-cell-contents-in-excel
 
 
+### 快速提取excel中的图片文件
+
+    把xlsx后缀改为zip，然后解压缩即可
+    
+
 ### 
